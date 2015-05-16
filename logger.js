@@ -1,6 +1,8 @@
 // JSTP Logger
 // ===========
 //
+// [ ![Codeship Status for jstp/logger](https://codeship.com/projects/897ccb40-de2d-0132-d439-465ff4e7e511/status?branch=master)](https://codeship.com/projects/80373)
+//
 // A nice logger for JSTP
 //
 // Installation
@@ -97,7 +99,7 @@ module.exports = Logger
 // License
 // -------
 //
-// Copyright 201% Xavier Via
+// Copyright 2015 Xavier Via
 //
 // ISC Clause license.
 //
