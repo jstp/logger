@@ -1,0 +1,23 @@
+{
+  "name": "@jstp/logger",
+  "version": "0.0.0",
+  "description": "A nice logger for JSTP",
+  "main": "logger.js",
+  "scripts": {
+    "test": "washington examples"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jstp/logger.git"
+  },
+  "keywords": [
+    "jstp",
+    "logger"
+  ],
+  "author": "Xavier Via <fernando.via@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jstp/logger/issues"
+  },
+  "homepage": "https://github.com/jstp/logger#readme"
+}
