@@ -1,0 +1,6 @@
+require("./get")
+require("./post")
+require("./put")
+require("./patch")
+require("./delete")
+require("./protocol")

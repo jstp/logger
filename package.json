@@ -4,6 +4,7 @@
   "description": "A nice logger for JSTP",
   "main": "logger.js",
   "scripts": {
+    "doc": "locco '--source={logger.js,src/**/*.js}' --adapter=markdown --adapter-readme=logger.js",
     "test": "washington examples"
   },
   "repository": {
@@ -19,5 +20,13 @@
   "bugs": {
     "url": "https://github.com/jstp/logger/issues"
   },
-  "homepage": "https://github.com/jstp/logger#readme"
+  "homepage": "https://github.com/jstp/logger#readme",
+  "devDependencies": {
+    "locco": "^1.0.2",
+    "locco-markdown": "0.0.2",
+    "washington": "^0.11.2"
+  },
+  "dependencies": {
+    "sydney": "^0.3.0"
+  }
 }
